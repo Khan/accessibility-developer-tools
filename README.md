@@ -43,7 +43,7 @@ You will need `node` and `grunt-cli` to build.
 
 4. Build using `grunt` (run from project root)
 
-        % grunt
+        % grunt build
 
 # Using the Audit API
 
